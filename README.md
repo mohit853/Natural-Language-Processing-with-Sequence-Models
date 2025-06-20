@@ -1,5 +1,5 @@
-Dataset had 10000 tweets with positive and negative sentiments .
-1) Pre-processing like stemming was done of the tweets
+Dataset had 10000 tweets with positive and negative sentiments 
+1) Pre-processing like stemming was done
 2) Vocabulary of unique words was built . It was a dictionary {'unique_words':len(vocab)}
 3) OOV was handled by giving index of UNK token index
 4) Padding of sequence was done subtracting length of maximum length tweet in training
